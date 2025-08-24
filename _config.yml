@@ -1,13 +1,13 @@
 # Site settings
 title: Leonardo's personal website
 description: "An Integrated Scientific Blogging Template"
-url: "https://github.com/lmedranos/"
+url: "https://github.com/lmedranos"
 
 
 
 
 # Secondary Parameters
-baseurl: "lmedranos.github.io/"
+baseurl: "lmedranos.github.io/tree/gh-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
