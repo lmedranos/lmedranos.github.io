@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Research lines"
-description: "Old and current research topics."
+title: "Research"
+description: "Physical chemistry / Materials science / Machine learning"
 header-img: "img/home-bg.jpg"
 category: projs
 ---
