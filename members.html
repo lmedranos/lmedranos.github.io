@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Members"
-description: "Collaborators working on this project."
+title: "Publications"
+description: "List of published papers per year."
 header-img: "img/home-bg.jpg"
 ---
 <hr>
-
+<!--
 {% for member in site.data.members %} {% if member.visible == true %}
 
 	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:10px; float:left; width:150px !important">
@@ -13,6 +13,8 @@ header-img: "img/home-bg.jpg"
 	<h1>{{ member.name }}</h1>
 	
 	<h2>{{ member.role }}</h2>
+
+{% for member in site.data.members %} {% if member.v
 	
 	{% if member.github %} 
 	<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
@@ -33,4 +35,5 @@ header-img: "img/home-bg.jpg"
 	<hr>
 
 {% endif %}{% endfor %}
+-->
 
