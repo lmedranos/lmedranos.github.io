@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Research lines"
-description: "Here, you can find the research topics which I am working on."
+description: "Old and current research topics."
 header-img: "img/home-bg.jpg"
 category: projs
 ---
