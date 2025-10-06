@@ -1,9 +1,5 @@
 # Site settings
-<<<<<<< HEAD
 title: Leonardo MEDRANO
-=======
-title: Leonardo MEDRANO SANDONAS
->>>>>>> 226a0fc5ab6c06072cd0cf4ed5af1a4cf3827741
 description: "Knowing the computational physics/chemist.."
 url: "https://lmedranos.github.io"
 
@@ -12,15 +8,9 @@ url: "https://lmedranos.github.io"
 
 # Secondary Parameters
 baseurl: ""
-<<<<<<< HEAD
 header-img: img/lms/gb.jpg
 headercolor: "#FFFFFF"
 logo: img/lms/Leonardo_Medrano.jpg
-=======
-#header-img: img/home-bg.jpg
-headercolor: "#FFFFFF"
-logo: img/Leonardo_Medrano.jpg
->>>>>>> 226a0fc5ab6c06072cd0cf4ed5af1a4cf3827741
 
 # Tertiary Parameters
 github_username:  projectpages
