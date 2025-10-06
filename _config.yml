@@ -13,8 +13,9 @@ headercolor: "#FFFFFF"
 #logo: img/lms/Leonardo_Medrano.jpg
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
+github_username:  lmedranos
+twitter_username: @lmedranos88
+#project_repository: project-pages
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
