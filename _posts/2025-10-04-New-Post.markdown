@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      New Post
-author:     Ahmet Cecen
+title:      SusML Workshop 2025
+author:     Leonardo Medrano
 tags: 		post template
-subtitle:  	Some Short Description of Post
+subtitle:  	I co-organized the SusML workshop in Dresden from September 29 to October 1, 2025.
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
