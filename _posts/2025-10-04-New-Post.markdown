@@ -2,7 +2,7 @@
 layout:     post
 title:      SusML Workshop 2025
 author:     Leonardo Medrano
-tags: 		post template
+#tags: 		post template
 subtitle:  	I co-organized the SusML workshop in Dresden from September 29 to October 1, 2025.
 category:  project1
 ---
