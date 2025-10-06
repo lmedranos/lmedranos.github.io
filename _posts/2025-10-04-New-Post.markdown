@@ -9,3 +9,5 @@ category:  project1
 <!-- Start Writing Below in Markdown -->
 
 
+It has been three intense and exciting days filled with inspiring talks and fruitful discussions on how to make hashtag#machinelearning research more hashtag#sustainable. As always, many questions remain open, but I hope all participants enjoyed the workshop as much as I did. A big thanks to the co-organizers (Mariana Rossi, Gianaurelio (Giovanni) Cuniberti. Milica Todorović, and Alexandre Tkatchenko) for their support in making this workshop possible!
+
