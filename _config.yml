@@ -10,7 +10,7 @@ url: "https://lmedranos.github.io"
 baseurl: ""
 header-img: img/lms/gb.jpg
 headercolor: "#FFFFFF"
-logo: img/lms/Leonardo_Medrano.jpg
+#logo: img/lms/Leonardo_Medrano.jpg
 
 # Tertiary Parameters
 github_username:  projectpages

@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: "Research"
 description: "Physical chemistry / Materials science / Machine learning"
 header-img: "img/lms/gb.jpg"
