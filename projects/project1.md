@@ -6,13 +6,13 @@ header-img: "img/lms/gb.jpg"
 category: projs
 ---
 
-# EquiDTB: Machine Learning-augmented DFTB
+## EquiDTB: Machine Learning-augmented DFTB
 
-# Quantum-mechanical datasets
+## Quantum-mechanical datasets
 
-# "Freedom of design" in chemical spaces
+## "Freedom of design" in chemical spaces
 
-# ADMET prediction
+## ADMET prediction
 
-# Transport in low-dimensional materials
+## Transport in low-dimensional materials
 

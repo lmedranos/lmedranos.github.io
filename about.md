@@ -6,7 +6,7 @@ header-img: "img/lms/gb.jpg"
 ---
 
 <p align="center">
-  <img src="https://lmedranos.github.io/img/lms/Leonardo_Medrano.jpg" alt="Leonardo" width="300"/>
+  <img src="{{ site.url }}/img/lms/Leonardo_Medrano.jpg" alt="Leonardo" width="300"/>
 </p>
 
 
