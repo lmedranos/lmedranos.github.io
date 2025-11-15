@@ -34,7 +34,11 @@ A central challenge in computer-aided drug discovery is the identification of mo
   <img src="{{ site.url }}/img/research/tp4/QMdescriptors.png" alt="Leonardo" width="500"/>
 </p>
 
-<!--
+
 ## Transport in low-dimensional materials
--->
+A crucial goal for increasing thermal energy harvesting will be to progress towards atomistic design strategies for smart nanodevices and nanomaterials. This requires the combination of computationally efficient atomistic methodologies with quantum and classical transport based approaches. In this reagard, we have employed nonequilibrium molecular dynamics (NEMD) simulations to investigate the influence of heat flux asymmetries in thermodynamic properties. Moreover, to address quantum ballistic thermal transport in nanoscale systems, we implemented a nonequillibrium Green’s functions (NEGF) treatment of transport combined with a density-functional based approach. 
+
+<p align="center">
+  <img src="{{ site.url }}/img/research/tp5/topic5.png" alt="Leonardo" width="500"/>
+</p>
 
