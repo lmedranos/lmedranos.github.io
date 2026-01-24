@@ -11,7 +11,7 @@ Density functional tight-binding (DFTB) method is a semi-empirical method that p
 
 
 <p align="center">
-  <img src="{{ site.url }}/img/research/tp1/equidtb.png" alt="Leonardo" width="500"/>
+  <img src="{{ site.url }}/img/research/tp1/equidtb2.png" alt="Leonardo" width="600"/>
 </p>
 
 ## Quantum-mechanical datasets
@@ -31,7 +31,7 @@ Comprehensive analyses of large datasets are crucial for determining structure-p
 A central challenge in computer-aided drug discovery is the identification of molecular descriptors that can effectively capture both geometric- and electronic structure-derived features, enabling the development of reliable and interpretable predictive models. While numerous descriptors focusing solely on structural characteristics have been recently proposed, improvements in model accuracy often come at the cost of increased computational demands, thereby restricting their practical applicability. To address this challenge, we have developed the <a href="https://chemrxiv.org/engage/chemrxiv/article-details/68c61dd73e708a7649eb1250" target="_blank" style="color: blue;">“QUantum Electronic Descriptor” (QUED) framework</a>, which integrates both structural and electronic data of molecules to develop ML regression models for property prediction (see <a href="https://github.com/lmedranos/QUED" target="_blank" style="color: blue;">QUED Github repository</a>). 
 
 <p align="center">
-  <img src="{{ site.url }}/img/research/tp4/QMdescriptors.png" alt="Leonardo" width="500"/>
+  <img src="{{ site.url }}/img/research/tp4/qued.png" alt="Leonardo" width="400"/>
 </p>
 
 
